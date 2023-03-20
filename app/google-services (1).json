@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "1050065517382",
+    "firebase_url": "https://claoudlab1-default-rtdb.firebaseio.com",
+    "project_id": "claoudlab1",
+    "storage_bucket": "claoudlab1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1050065517382:android:31ec3718cbfeb7c8144347",
+        "android_client_info": {
+          "package_name": "com.example.cloudlab1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1050065517382-9cb1fn4rgtb1fl97mb4h3p8grp1mno3c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlcYWPAZm1vRMYBrVzMAkthcSspzo6iKk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1050065517382-9cb1fn4rgtb1fl97mb4h3p8grp1mno3c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1050065517382:android:92030c5bf99dd4f0144347",
+        "android_client_info": {
+          "package_name": "com.example.pdfapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1050065517382-9cb1fn4rgtb1fl97mb4h3p8grp1mno3c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlcYWPAZm1vRMYBrVzMAkthcSspzo6iKk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1050065517382-9cb1fn4rgtb1fl97mb4h3p8grp1mno3c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
